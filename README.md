@@ -1,1 +1,2 @@
+[![Board Status](https://mashie.visualstudio.com/0ae759d0-b77b-4537-8bc3-e398151a2cc6/4227aec5-4fa7-4da8-b16c-a5d9ebc99ab2/_apis/work/boardbadge/087d01ee-8ce7-42cc-a17e-50e7164b25a2)](https://mashie.visualstudio.com/0ae759d0-b77b-4537-8bc3-e398151a2cc6/_boards/board/t/4227aec5-4fa7-4da8-b16c-a5d9ebc99ab2/Microsoft.RequirementCategory)
 # github-issues
